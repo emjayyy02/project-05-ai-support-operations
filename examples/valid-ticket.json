@@ -1,1 +1,8 @@
-
+{
+  "ticket_id": "EXAMPLE-001",
+  "customer_name": "Jordan Lee",
+  "customer_email": "jordan@example.com",
+  "company": "Example Company",
+  "message": "The CSV export fails every time, but PDF export still works. Please help me fix the CSV export issue.",
+  "source": "support_form"
+}
