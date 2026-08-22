@@ -1,0 +1,8 @@
+{
+  "ticket_id": "EXAMPLE-004",
+  "customer_name": "Invalid Test",
+  "customer_email": "",
+  "company": "Example Company",
+  "message": "I need help with my account.",
+  "source": "support_form"
+}
