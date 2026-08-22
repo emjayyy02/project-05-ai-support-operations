@@ -1,0 +1,8 @@
+{
+  "ticket_id": "EXAMPLE-002",
+  "customer_name": "Taylor Cruz",
+  "customer_email": "taylor@example.com",
+  "company": "Sample Labs",
+  "message": "I was charged twice for my subscription this month. Please refund the duplicate charge.",
+  "source": "support_form"
+}
